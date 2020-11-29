@@ -1,0 +1,9 @@
+.frmLogin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+input{
+    border-radius: 20px;
+}
